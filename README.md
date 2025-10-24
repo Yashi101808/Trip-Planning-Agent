@@ -36,6 +36,8 @@ It showcases **practical AI-driven automation** for service-based workflows, com
 
 ---
 
+<img width="450" height="866" alt="image" src="https://github.com/user-attachments/assets/0ce34455-5040-4f47-8403-58e7057262e5" />
+<img width="1726" height="890" alt="image" src="https://github.com/user-attachments/assets/60ca1b6b-10b9-4868-b04b-bc23a114b395" />
 
 ---
 
